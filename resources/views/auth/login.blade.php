@@ -40,14 +40,6 @@
     </div>
 </div>
 <script src="{{ asset('plugins/login/js/jquery.min.js') }}"></script>
-
-
-
-<script src="js/index.js"></script>
-
-
-
-
+<script src="{{ asset('plugins/login/js/index.js') }}"></script>
 </body>
-
 </html>
